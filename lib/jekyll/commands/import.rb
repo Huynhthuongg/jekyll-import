@@ -7,6 +7,7 @@ module Jekyll
         :blogger         => "Blogger",
         :behance         => "Behance",
         :csv             => "CSV",
+        :csv2            => "CSV2",
         :drupal6         => "Drupal6",
         :drupal7         => "Drupal7",
         :enki            => "Enki",
